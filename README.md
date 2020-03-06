@@ -18,7 +18,7 @@ I asked around and learned of a few resources for young budding engineers, and w
 * [Brightmoor Maker Space](https://impact.govrel.umich.edu/brightmoor-maker/)
 * [SEEK (NSBE)](https://www.nsbe.org/Seek/)
 * [NSBE Jr.](https://www.nsbe.org/Membership/Membership-Types/NSBE-Jr.aspx)
-* [Code.org](http://code.org/)/[Studio](https://studio.code.org/courses)
+* [Code Studio (Code.org)](https://studio.code.org/courses)
 * [Jack Kent Cooke Foundation](https://www.jkcf.org/our-scholarships/)
 * Your local university or college (free courses, tutors)
 * Local YMCA
